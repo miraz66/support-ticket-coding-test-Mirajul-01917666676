@@ -8,6 +8,8 @@
             </div>
         @endif
 
+        <div class=""></div>
+
         <div class="overflow-x-auto">
             <table class="min-w-full border-collapse border border-gray-200/50 text-white">
                 <thead>
